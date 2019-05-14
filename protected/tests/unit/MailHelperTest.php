@@ -6,8 +6,8 @@ namespace GigaDB\Tests\UnitTests;
 use MailHelper;
 use User;
 
-class MailHelperTest extends \CDbTestCase
-{
+//class MailHelperTest extends \CDbTestCase
+//{
 //    function testSendUploadedDatasetToAdmin() {
 //        $testAdminEmail = 'vitaliklunyov@gmail.com'; //todo
 //
@@ -26,4 +26,4 @@ class MailHelperTest extends \CDbTestCase
 //
 //        $this->assertTrue($res);
 //    }
-}
+//}

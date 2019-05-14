@@ -4,8 +4,8 @@ namespace GigaDB\Tests\UnitTests;
 
 
 
-class CsvHelperTest extends \CDbTestCase
-{
+//class CsvHelperTest extends \CDbTestCase
+//{
 //    function testGetArrayByFileNameCsv() {
 //        $fileSourse = \MainHelper::getFilesDir() . 'csv/test_authors.csv';
 //
@@ -27,4 +27,4 @@ class CsvHelperTest extends \CDbTestCase
 //        $this->assertEquals('first name4', $rows[0][0]);
 //        $this->assertEquals('Contribution1', $rows[2][4]);
 //    }
-}
+//}

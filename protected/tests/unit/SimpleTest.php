@@ -3,9 +3,9 @@
 namespace GigaDB\Tests\UnitTests;
 
 
-class SimpleTest extends \CDbTestCase
-{
+//class SimpleTest extends \CDbTestCase
+//{
 //    function testSimpleTest() {
 //        $this->assertTrue(true);
 //    }
-}
+//}

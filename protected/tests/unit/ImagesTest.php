@@ -3,8 +3,8 @@
 namespace GigaDB\Tests\UnitTests;
 
 
-class ImagesTest extends \CDbTestCase
-{
+//class ImagesTest extends \CDbTestCase
+//{
 //    function testSetIsNoImage() {
 //        $isNoImage = 1;
 //
@@ -107,4 +107,4 @@ class ImagesTest extends \CDbTestCase
 //        $res = $image->delete();
 //        $this->assertTrue($res);
 //    }
-}
+//}
